@@ -35,9 +35,9 @@
             android:text="0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/edNum"
+            android:id="@+id/lblNum"
             android:layout_weight="1"
-            android:gravity="right" />
+            android:gravity="right|center_vertical" />
     </LinearLayout>
 
 </LinearLayout>
